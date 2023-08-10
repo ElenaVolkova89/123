@@ -18,7 +18,9 @@ UX/UI,
 Проверка производительности,
 Тестирование API
 <p>
- <a href="[https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1](https://qa-bug-report-molekula.atlassian.net/wiki/spaces/~63cbaff90c615857128e3d7a/pages/1703937/1+2)https://qa-bug-report-molekula.atlassian.net/wiki/spaces/~63cbaff90c615857128e3d7a/pages/1703937/1+2">Ссылка на проект</a>
+  
+> <a href="https://qa-bug-report-molekula.atlassian.net/wiki/spaces/~63cbaff90c615857128e3d7a/pages/1703937/1+2">Ссылка на проект</a>
+
  <p> логин: molekula25@mail.ru </p>
  <p> пароль: govnomamonta89 </p>
 <p>Выводы (итоги):
